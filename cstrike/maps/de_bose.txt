@@ -1,0 +1,12 @@
+<center><iframe src="http://www.ilive.ro/banner.html" width="728" height="90" frameborder="0" scrolling="no"></iframe></center>
+[- CS.INTERCONNECT.RO -]
+
+Forum : www.f-it.tk
+
+
+Alianta : [- vTn.InterConnecT.Ro -]
+
+
+Forum : www.f-it.tk
+
+exec cfglist/de_bose.cfg

@@ -1,0 +1,11 @@
+Italy Bustrip
+based on fy_italy_fieldtrip by nopeice24
+
+The CTs are on vacation and decided to do a bustrip in Italy.
+But the Terrorists are jealous about the trip and ambush them
+in a small town.
+
+Known Bugs:
+The bus has some problems driving over the ramps.
+Deal with it and just mess around with the bugs.
+

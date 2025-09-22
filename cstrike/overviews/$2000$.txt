@@ -1,0 +1,14 @@
+// overview description file for $2000$.bsp by LazzR
+
+global 
+{
+	ZOOM	4
+	ORIGIN	-772 	762.5	-34
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/$2000$.bmp"
+	HEIGHT	-181
+}
